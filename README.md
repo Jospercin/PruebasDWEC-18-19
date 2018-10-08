@@ -1,7 +1,5 @@
 # PruebasDWEC-18-19
 
-prueba nº 1
+Para visualizar el link de prueba de bootstrap:
+Landing_page_project -> vendor -> index.html
 
-prueba nº 2
-
-prueba nº 3
